@@ -1,2 +1,2 @@
-# Study-Python-
+# Study-Python
 I'm start to learning Python language
